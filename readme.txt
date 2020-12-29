@@ -1,0 +1,1 @@
+This is a smart dictionary built in python which specifically deals with mistype words, i.e, if the user mistypes the word then the dictionary will suggest a word most closely realted to it and give the output accordingly. 
